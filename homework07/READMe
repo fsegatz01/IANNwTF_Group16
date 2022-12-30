@@ -1,0 +1,6 @@
+Unfortunately, we were not able to solve the task. There are dimension problems and exchanging
+it with the tf.keras.layers.LSTM does not help. The dimension problems did not disappear after hours of trying.
+Probably, the reason is already the preprocessing of the input and in which shape it is inserted into the network.
+Nevertheless, we had no general problem understanding RNNs or LSTMs and if there would have been a q and a session or 
+flipped classroom we would have asked, but the problem seemed to complex to aks for the solution in the forum. Please, 
+apologize any code chaos that occurs, we really tried a lot.  
