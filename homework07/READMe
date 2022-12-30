@@ -1,6 +1,16 @@
-Unfortunately, we were not able to solve the task. There are dimension problems and exchanging
-it with the tf.keras.layers.LSTM does not help. The dimension problems did not disappear after hours of trying.
-Probably, the reason is already the preprocessing of the input and in which shape it is inserted into the network.
-Nevertheless, we had no general problem understanding RNNs or LSTMs and if there would have been a q and a session or 
-flipped classroom we would have asked, but the problem seemed to complex to aks for the solution in the forum. Please, 
-apologize any code chaos that occurs, we really tried a lot.  
+Dear tutors,
+
+Like you have probably already seen our code sadly does not work. 
+Our problem is that we often encountered shape errors which were hard to tackle since we also weren’t quite sure if our preprocess function gives out the right shape.
+There are dimension problems and exchanging it with the tf.keras.layers.LSTM does not help. The dimension problems did not disappear after hours of trying.
+We got through lots of errors and could solve many of the problems, but we somehow got stuck in the pooling part.
+Nevertheless, we had no general problem understanding RNNs or LSTMs. We are sure that if we had more time and also the possibility to again visit a q&a session
+we would be able to make the code work. We also thought about posting in the forum but the problem seemed too complex to ask. Since this homework was overlapping
+with the exam, Christmas holidays and the last week before these holidays it was for us not possible to already ask the questions that we have now in the q&a sessions
+because there was simply not enough time to get the homework done until the sessions.
+Please, apologize any code chaos that occurs, we really tried a lot.  We’ve put a lot of time and effort into this homework.
+Therefore we would be very thankful if you could be understanding. Also if you have an idea how we could tackle the shape errors and make the program work
+we would be very happy to hear from you.
+
+Kind regards,
+Group 16 
