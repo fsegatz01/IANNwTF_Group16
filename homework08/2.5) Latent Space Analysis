@@ -1,0 +1,7 @@
+We see that the data points from a class are piling in specific areas of the plot. Still there are also a lot of data points from one class
+randomly scattered in the field. Also interestingly there are certain areas where none of the data points are.
+Some labels like the 0 and 1 are way more piled than others like e.g. the 9.
+
+We would have expected a clearer distinction of the classes in the position of the data points. Also kind of an positioning of the data points so that
+number that show similar features like e.g. the 6 and the 9 are closer together than the data points from e.g. 0 and 1 (which for the 0 and 1 we can see in the plot
+that piles do actually have a big distance to each other). 
