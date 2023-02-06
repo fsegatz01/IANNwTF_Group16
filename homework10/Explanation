@@ -1,0 +1,15 @@
+Dear tutors,
+Like you have most likely seen our code does not work. Though we have a lot of exams and deadlines in other courses we spent a lot of time on this homework.
+Creating the tuples and writing the preprocessing steps themselves turned out to be already very time consuming since it took us some time to understand
+the underlying concepts and implementing them in code. (Having a more detailed explanation of the content in a Flipped Classroom would have been very helpful.)
+When moving on to the model we had a hard time working with the tf.nn.nce_loss. The mail later on with ideas
+to follow the tf tutorial led to us following a totally different new approach since we got stuck in the old one.
+There the model seemed to work but it turned out to be very complicated to preprocess the bible.txt in the right way. That’s  why we kept working on the first approach
+again. We got stuck in the call function for quite a long time, but found the error and used the CategoricalCrossEntropy as a loss.
+Now it does not throw an error but we have the problem that it does not go through the different epochs. Since we switched the ways to implement the exercise in between
+working on the homework was very time-consuming. The “problem” with our code now is, the way we see it, that we did not get to the part where we
+have to “average [the loss] over the batch manually”. Also the neighbouring part is missing.
+We are very sorry that we have to hand in this homework unfinished. Since the preprocessing works, the model should be mainly right and we started with the training
+step we hope that it is still sufficient.
+With more time and with concentrating on the one instead of two different approaches we are sure that we could have finished this homework and handed in a working code.
+
