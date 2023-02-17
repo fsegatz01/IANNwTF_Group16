@@ -1,1 +1,12 @@
+Dear tutors,
 
+unfortunately, the detokenizing process in the generator method does not work. It is really strange, because if we put a 
+static list into the detokenizer it works, but as soon as we want to put the dynamic tensor into the detokenizer it returns only errors. 
+We tried a lot to solve this problem (see outcommended lines of code), but nothing worked. As the print statements show, the generator 
+process works despite the detokenizing step.
+We wrote an email this evening regarding the probelm but have not got a response yet and we were not sure how many late days we got left.
+
+When we figure out what the problem was, we will upload a second version.
+
+Best
+Group 16
